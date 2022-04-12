@@ -15,7 +15,7 @@ const Home = () => {
       </div>
 
       <div className="info-banner">
-        <h4 className="items-list">ART PRINTS / T-SHIRTS / STICKERS / HOODIES / ORIGINAL ART WORKS</h4>
+        <h4 className="items-list">ART PRINTS / T-SHIRTS / STICKERS / HOODIES / ORIGINAL ART</h4>
         <Link to="/catalog" className="btn btn-info">Check out our awesome catalog!</Link>
       </div>
 
